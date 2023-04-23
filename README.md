@@ -1,3 +1,3 @@
-# Robotbattle
+# Robotbattle - CAD
 
-CAD 파일은 CAD 폴더에, Arduino 코드는 메인 브랜치에 올릴 예정입니다.
+CAD 파일을 올리는 곳입니다.
