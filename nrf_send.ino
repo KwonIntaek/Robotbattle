@@ -7,7 +7,7 @@
 RF24 radio(7,8);
 //주소값을 5가지 문자열로 변경할 수 있으며, 송신기와 수신기가 동일한 주소로 해야됨.
 // can set address in 5 length char, reciever and transmitter need to have same address
-const byte address[6] = "00001";
+const byte address[6] = "12345";
 uint8_t sendBuf[4*8];
 
 int r1 = A0;
